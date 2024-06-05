@@ -1,12 +1,9 @@
-﻿int[] inventory = { 200, 450, 700, 175, 250 };
+﻿string[] fraudulentOrderIDs = { "B123", "C234", "A345", "C15", "B177", "G3003", "C235", "B179" };
 
-int sum = 0;
-int bin = 0;
-
-foreach (int item in inventory)
+foreach (string orderId in fraudulentOrderIDs)
 {
-    sum += item;
-    bin++;
-    Console.WriteLine($"Bin {bin} = {item} items (Running total: {sum})");
+    if (orderId.StartsWith("B"))
+    {
+        Console.WriteLine($"This order is {orderId}");
+    }
 }
-Console.WriteLine($"We have {sum} items in inventory.");
