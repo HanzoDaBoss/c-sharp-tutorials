@@ -1,0 +1,15 @@
+/home/hanzo/dotnet/Tutorials/part2/module4/bin/Debug/net8.0/module4
+/home/hanzo/dotnet/Tutorials/part2/module4/bin/Debug/net8.0/module4.deps.json
+/home/hanzo/dotnet/Tutorials/part2/module4/bin/Debug/net8.0/module4.runtimeconfig.json
+/home/hanzo/dotnet/Tutorials/part2/module4/bin/Debug/net8.0/module4.dll
+/home/hanzo/dotnet/Tutorials/part2/module4/bin/Debug/net8.0/module4.pdb
+/home/hanzo/dotnet/Tutorials/part2/module4/obj/Debug/net8.0/module4.GeneratedMSBuildEditorConfig.editorconfig
+/home/hanzo/dotnet/Tutorials/part2/module4/obj/Debug/net8.0/module4.AssemblyInfoInputs.cache
+/home/hanzo/dotnet/Tutorials/part2/module4/obj/Debug/net8.0/module4.AssemblyInfo.cs
+/home/hanzo/dotnet/Tutorials/part2/module4/obj/Debug/net8.0/module4.csproj.CoreCompileInputs.cache
+/home/hanzo/dotnet/Tutorials/part2/module4/obj/Debug/net8.0/module4.sourcelink.json
+/home/hanzo/dotnet/Tutorials/part2/module4/obj/Debug/net8.0/module4.dll
+/home/hanzo/dotnet/Tutorials/part2/module4/obj/Debug/net8.0/refint/module4.dll
+/home/hanzo/dotnet/Tutorials/part2/module4/obj/Debug/net8.0/module4.pdb
+/home/hanzo/dotnet/Tutorials/part2/module4/obj/Debug/net8.0/module4.genruntimeconfig.cache
+/home/hanzo/dotnet/Tutorials/part2/module4/obj/Debug/net8.0/ref/module4.dll
