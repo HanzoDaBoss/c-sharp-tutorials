@@ -1,0 +1,15 @@
+/home/hanzo/dotnet/Tutorials/part2/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/home/hanzo/dotnet/Tutorials/part2/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/home/hanzo/dotnet/Tutorials/part2/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/home/hanzo/dotnet/Tutorials/part2/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/home/hanzo/dotnet/Tutorials/part2/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/home/hanzo/dotnet/Tutorials/part2/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/hanzo/dotnet/Tutorials/part2/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/home/hanzo/dotnet/Tutorials/part2/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/home/hanzo/dotnet/Tutorials/part2/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/home/hanzo/dotnet/Tutorials/part2/GuidedProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/home/hanzo/dotnet/Tutorials/part2/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/home/hanzo/dotnet/Tutorials/part2/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/home/hanzo/dotnet/Tutorials/part2/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/home/hanzo/dotnet/Tutorials/part2/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/home/hanzo/dotnet/Tutorials/part2/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
