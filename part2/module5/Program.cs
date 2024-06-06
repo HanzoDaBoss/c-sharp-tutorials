@@ -1,19 +1,19 @@
-﻿/*
-  The following code creates five random OrderIDs
-  to test the fraud detection process.  OrderIDs 
-  consist of a letter from A to E, and a three
-  digit number. Ex. A123.
-*/
-Random random = new Random();
-string[] orderIDs = new string[5];
-for (int i = 0; i < orderIDs.Length; i++)
+﻿string str = "The quick brown fox jumps over the lazy dog.";
+// convert the message into a char array
+char[] charMessage = str.ToCharArray();
+// reverse the chars
+Array.Reverse(charMessage);
+int x = 0;
+// count the o's
+foreach (char i in charMessage)
 {
-    int prefixValue = random.Next(65, 70);
-    string prefix = Convert.ToChar(prefixValue).ToString();
-    string suffix = random.Next(1, 1000).ToString("000");
-    orderIDs[i] = prefix + suffix;
+    if (i == 'o')
+    {
+        x++;
+    }
 }
-foreach (var orderID in orderIDs)
-{
-    Console.WriteLine(orderID);
-}
+// convert it back to a string
+string newMessage = new string(charMessage);
+// print it out
+Console.WriteLine(newMessage);
+Console.WriteLine($"'o' appears {x} times.");
