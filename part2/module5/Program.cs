@@ -1,10 +1,11 @@
-﻿string str = "The quick brown fox jumps over the lazy dog.";
-// convert the message into a char array
+﻿/*The following code takes a string, reverses it, and prints it out the console,
+along with the number of times the letter 'o' appears in it*/
+
+string str = "The quick brown fox jumps over the lazy dog.";
 char[] charMessage = str.ToCharArray();
-// reverse the chars
 Array.Reverse(charMessage);
+
 int x = 0;
-// count the o's
 foreach (char i in charMessage)
 {
     if (i == 'o')
@@ -12,8 +13,7 @@ foreach (char i in charMessage)
         x++;
     }
 }
-// convert it back to a string
 string newMessage = new string(charMessage);
-// print it out
+
 Console.WriteLine(newMessage);
 Console.WriteLine($"'o' appears {x} times.");
