@@ -35,7 +35,7 @@ int level = 55;
 
 if (permission.Contains("Admin"))
 {
-    if (level >= 55)
+    if (level > 55)
     {
         Console.WriteLine("Welcome, Super Admin user.");
     }
