@@ -22,6 +22,12 @@
 // Console.WriteLine(!pangram.Contains("fox"));
 // Console.WriteLine(!pangram.Contains("cow"));
 
-int saleAmount = 1001;
+// int saleAmount = 1001;
 // int discount = saleAmount > 1000 ? 100 : 50;
-Console.WriteLine($"Discount: {(saleAmount > 1000 ? 100 : 50)}");
+// Console.WriteLine($"Discount: {(saleAmount > 1000 ? 100 : 50)}");
+
+Random number = new Random();
+
+int flip = number.Next(2);
+
+Console.WriteLine($"The coin landed on: {(flip == 0 ? "heads" : "tails")}");
