@@ -1,0 +1,15 @@
+/home/hanzo/dotnet/Tutorials/part3/module2/bin/Debug/net8.0/module2
+/home/hanzo/dotnet/Tutorials/part3/module2/bin/Debug/net8.0/module2.deps.json
+/home/hanzo/dotnet/Tutorials/part3/module2/bin/Debug/net8.0/module2.runtimeconfig.json
+/home/hanzo/dotnet/Tutorials/part3/module2/bin/Debug/net8.0/module2.dll
+/home/hanzo/dotnet/Tutorials/part3/module2/bin/Debug/net8.0/module2.pdb
+/home/hanzo/dotnet/Tutorials/part3/module2/obj/Debug/net8.0/module2.GeneratedMSBuildEditorConfig.editorconfig
+/home/hanzo/dotnet/Tutorials/part3/module2/obj/Debug/net8.0/module2.AssemblyInfoInputs.cache
+/home/hanzo/dotnet/Tutorials/part3/module2/obj/Debug/net8.0/module2.AssemblyInfo.cs
+/home/hanzo/dotnet/Tutorials/part3/module2/obj/Debug/net8.0/module2.csproj.CoreCompileInputs.cache
+/home/hanzo/dotnet/Tutorials/part3/module2/obj/Debug/net8.0/module2.sourcelink.json
+/home/hanzo/dotnet/Tutorials/part3/module2/obj/Debug/net8.0/module2.dll
+/home/hanzo/dotnet/Tutorials/part3/module2/obj/Debug/net8.0/refint/module2.dll
+/home/hanzo/dotnet/Tutorials/part3/module2/obj/Debug/net8.0/module2.pdb
+/home/hanzo/dotnet/Tutorials/part3/module2/obj/Debug/net8.0/module2.genruntimeconfig.cache
+/home/hanzo/dotnet/Tutorials/part3/module2/obj/Debug/net8.0/ref/module2.dll
