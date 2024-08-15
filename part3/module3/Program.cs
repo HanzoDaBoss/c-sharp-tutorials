@@ -20,6 +20,5 @@ switch (employeeLevel)
     default:
         title = "Associate";
         break;
-
-        Console.WriteLine($"{employeeName}, {title}");
 }
+Console.WriteLine($"{employeeName}, {title}");
